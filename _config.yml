@@ -1,15 +1,15 @@
-title:             杨小嘎
+title:             杨嘎
 email:             18812668537@163.com
 description:       『欲诚其意者，先致其知』
 author:             嘎
 #baseurl:           "/startbootstrap-clean-blog-jekyll"
 baseurl:           ""
-url:               "http://yangxiaoga.github.io"
+url:               "http://wiyangga.github.io"
 
 # Social Profiles
-twitter_username:  #yangxiaoga
-github_username:   yangxiaoga
-facebook_username: #yangxiaoga
+twitter_username:  #wiyangga
+github_username:   wiyangga
+facebook_username: #wiyangga
 
 # 百度统计
 analytics:
