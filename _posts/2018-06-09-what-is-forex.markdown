@@ -2,7 +2,7 @@
 layout: post
 title: 一个朝阳的领域-外汇
 subtitle: 什么是外汇？
-background: '/img/posts/what-is-forex'
+background: '/img/posts/what-is-forex.jpg'
 comment: true
 ---
 
